@@ -1,0 +1,51 @@
+{
+  "id": "http://localhost:8888/collection/index.json",
+  "type": "Collection",
+  "label": "collection",
+  "members": [
+    {
+      "id": "http://localhost:8888/collection/animal_skull/index.json",
+      "type": "Manifest",
+      "label": "Animal Skull",
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/animal_skull/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/ecorche/index.json",
+      "type": "Manifest",
+      "label": "Écorché",
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/ecorche/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/human_skull/index.json",
+      "type": "Manifest",
+      "label": "Human Skull",
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/human_skull/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/woody/index.json",
+      "type": "Manifest",
+      "label": "Woody",
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/woody/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ]
+}
