@@ -1,7 +1,7 @@
 {
   "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json",
   "type": "Manifest",
-  "label": "Animal Skull",
+  "label": "Animal Skull is awesome",
   "sequences": [
     {
       "type": "Sequence",
@@ -35,6 +35,7 @@
     }
   ],
   "attribution": "Nellis Antiques",
+  "description": "test description",
   "thumbnail": [
     {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/thumb.jpg",
