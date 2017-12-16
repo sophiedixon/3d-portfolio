@@ -4,9 +4,20 @@
   "label": "collection",
   "members": [
     {
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json",
+      "type": "Manifest",
+      "label": "Music Box",
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json",
       "type": "Manifest",
-      "label": "Animal Skull is awesome",
+      "label": "Animal Skull",
       "thumbnail": [
         {
           "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/thumb.jpg",
