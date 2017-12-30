@@ -7,11 +7,7 @@
     "postinstall": "npm run sync",
     "sync": "rm -rf uv && cp -R node_modules/universalviewer/uv uv",
     "build": "biiif collection -u http://localhost:8888/collection",
-<<<<<<< HEAD
     "dist": "biiif collection -u https://sophiedixon.github.io/3d-portfolio/collection",
-=======
-    "dist": "biiif collection -u https://username.github.io/uv-app-starter/collection",
->>>>>>> upstream/gh-pages
     "publish": "npm run dist && git add -A && git commit -m \"published\" && git push origin gh-pages",
     "start": "npm run build && http-server -c-1 -p 8888"
   },

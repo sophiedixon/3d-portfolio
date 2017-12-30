@@ -1,12 +1,9 @@
 {
-  "id": "http://localhost:8888/collection/index.json",
+  "id": "https://sophiedixon.github.io/3d-portfolio/collection/index.json",
   "type": "Collection",
   "label": "Sophie Dixon 3D Portfolio",
   "members": [
     {
-<<<<<<< HEAD
-      "id": "http://localhost:8888/collection/animal_skull/index.json",
-=======
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json",
       "type": "Manifest",
       "label": "Music Box",
@@ -19,56 +16,55 @@
     },
     {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json",
->>>>>>> 219f029973af832e26b3bfdf829891ad9eeec49e
       "type": "Manifest",
       "label": "Animal Skull",
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/animal_skull/thumb.jpg",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/bird/index.json",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json",
       "type": "Manifest",
       "label": "Bird",
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/bird/thumb.jpg",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/ecorche/index.json",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json",
       "type": "Manifest",
       "label": "Écorché",
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/ecorche/thumb.jpg",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/human_skull/index.json",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json",
       "type": "Manifest",
       "label": "Human Skull",
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/human_skull/thumb.jpg",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/woody/index.json",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json",
       "type": "Manifest",
       "label": "Woody",
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/woody/thumb.jpg",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/thumb.jpg",
           "type": "Image"
         }
       ]
