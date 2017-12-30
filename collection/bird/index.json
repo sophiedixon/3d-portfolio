@@ -1,7 +1,7 @@
 {
   "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json",
   "type": "Manifest",
-  "label": "Bird",
+  "label": "Bird ornament",
   "sequences": [
     {
       "type": "Sequence",
@@ -34,6 +34,17 @@
       ]
     }
   ],
+  "metadata": [
+    {
+      "label": "Made with",
+      "value": "Agisoft PhotoScan & Blender"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Width 120mm"
+    }
+  ],
+  "description": "A concrete ornamental bird",
   "thumbnail": [
     {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/thumb.jpg",

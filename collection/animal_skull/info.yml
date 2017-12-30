@@ -1,5 +1,6 @@
 label: Animal Skull
-description: An animal skull from Nelis Antiques, Amsterdam. www.nelisantiques.com
+attribution: Nelis Antiques, Amsterdam. www.nelisantiques.com
 metadata:
   Made with: Agisoft PhotoScan & Blender 
-  
+  Dimensions: Width 140mm
+

@@ -34,7 +34,14 @@
       ]
     }
   ],
-  "attribution": "Nellis Antiques",
+  "metadata": [
+    {
+      "label": "Made with",
+      "value": "Agisoft PhotoScan & Blender"
+    }
+  ],
+  "attribution": "Nelis Antiques, Amsterdam. www.nelisantiques.com",
+  "description": "Paediatric skull with developing dentition",
   "thumbnail": [
     {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/thumb.jpg",
