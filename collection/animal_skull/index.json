@@ -34,6 +34,12 @@
       ]
     }
   ],
+  "metadata": [
+    {
+      "label": "made with",
+      "value": "Agisoft PhotoScan & Blender"
+    }
+  ],
   "description": "I found this in Nellis Antiques in Amsterdam",
   "thumbnail": [
     {

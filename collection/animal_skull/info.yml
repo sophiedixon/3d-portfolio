@@ -1,2 +1,5 @@
 label: Animal Skull
 description: I found this in Nellis Antiques in Amsterdam
+metadata:
+  made with: Agisoft PhotoScan & Blender 
+  
