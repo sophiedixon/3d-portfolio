@@ -1,0 +1,121 @@
+# Blender MTL File: 'music-box-assembled.blend'
+# Material Count: 10
+
+newmtl box
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box_bake.png
+norm music-box_normal2.png
+
+newmtl box-lid-diffuse
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box-lid_bake.png
+map_Ke box-lid_bake.png
+norm music-box-lid_normal.png
+
+newmtl box-lid-plate
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box-lid_bake.png
+norm music-box-lid_normal.png
+
+newmtl box-lid-rim
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box-lid_bake.png
+
+newmtl box-main
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box_bake.png
+map_Ke box_bake.png
+norm music-box_normal2.png
+
+newmtl box-metal-rim
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box-lid_bake.png
+
+newmtl box-ring
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd box_bake.png
+
+newmtl dancer_plastic
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dancer_bake.png
+norm dancer_normal.png
+
+newmtl diffuse
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dancer_bake.png
+map_Ke dancer_bake.png
+norm dancer_normal.png
+
+newmtl gold
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dancer_bake.png
