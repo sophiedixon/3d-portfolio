@@ -1,7 +1,7 @@
 {
   "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json",
   "type": "Manifest",
-  "label": "Woody",
+  "label": "Fisherman",
   "sequences": [
     {
       "type": "Sequence",
@@ -34,7 +34,18 @@
       ]
     }
   ],
-  "attribution": "Snooper's Paradise",
+  "metadata": [
+    {
+      "label": "Made with",
+      "value": "Agisoft PhotoScan & Blender"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Height 200mm"
+    }
+  ],
+  "attribution": "Snoopers Paradise www.snoopers-paradise.com",
+  "description": "wooden bust, origin unknown",
   "thumbnail": [
     {
       "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/thumb.jpg",

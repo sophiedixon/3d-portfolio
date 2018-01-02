@@ -1,1 +1,5 @@
-label: Bird
+label: Bird ornament
+description: A concrete ornamental bird 
+metadata:
+  Made with: Agisoft PhotoScan & Blender
+  Dimensions: Width 120mm
