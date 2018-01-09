@@ -1,54 +1,82 @@
 {
-  "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json",
+  "id": "http://localhost:8888/collection/woody/index.json",
   "type": "Manifest",
-  "label": "Fisherman",
-  "sequences": [
+  "items": [
     {
       "type": "Sequence",
-      "canvases": [
+      "items": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json/canvas/0",
+          "id": "http://localhost:8888/collection/woody/index.json/canvas/0",
           "type": "Canvas",
-          "content": [
+          "items": [
             {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json/canvas/0/annotationpage/0",
+              "id": "http://localhost:8888/collection/woody/index.json/canvas/0/annotationpage/0",
               "type": "AnnotationPage",
               "items": [
                 {
-                  "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json/canvas/0/annotation/0",
+                  "id": "http://localhost:8888/collection/woody/index.json/canvas/0/annotation/0",
                   "type": "Annotation",
                   "motivation": "painting",
                   "body": {
-                    "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/_woody/woody.obj",
+                    "id": "http://localhost:8888/collection/woody/_woody/woody.obj",
                     "type": "PhysicalObject",
                     "format": "text/plain",
-                    "label": "_woody"
+                    "label": {
+                      "@none": [
+                        "_woody"
+                      ]
+                    }
                   },
-                  "target": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json/canvas/0"
+                  "target": "http://localhost:8888/collection/woody/index.json/canvas/0"
                 }
               ]
             }
           ],
-          "label": "_woody"
+          "label": {
+            "@none": [
+              "_woody"
+            ]
+          }
         }
       ]
     }
   ],
+  "label": {
+    "@none": [
+      "Fisherman"
+    ]
+  },
   "metadata": [
     {
-      "label": "Made with",
-      "value": "Agisoft PhotoScan & Blender"
+      "label": {
+        "@none": [
+          "Made with"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Agisoft PhotoScan & Blender"
+        ]
+      }
     },
     {
-      "label": "Dimensions",
-      "value": "Height 200mm"
+      "label": {
+        "@none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Height 200mm"
+        ]
+      }
     }
   ],
   "attribution": "Snoopers Paradise www.snoopers-paradise.com",
   "description": "wooden bust, origin unknown",
   "thumbnail": [
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/thumb.jpg",
+      "id": "http://localhost:8888/collection/woody/thumb.jpg",
       "type": "Image"
     }
   ]
