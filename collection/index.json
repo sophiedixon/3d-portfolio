@@ -1,9 +1,9 @@
 {
-  "id": "https://sophiedixon.github.io/3d-portfolio/collection/index.json",
+  "id": "http://localhost:8888/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json",
+      "id": "http://localhost:8888/collection/animal_skull/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/thumb.jpg",
+          "id": "http://localhost:8888/collection/animal_skull/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json",
+      "id": "http://localhost:8888/collection/bird/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/thumb.jpg",
+          "id": "http://localhost:8888/collection/bird/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/index.json",
+      "id": "http://localhost:8888/collection/woody/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/woody/thumb.jpg",
+          "id": "http://localhost:8888/collection/woody/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json",
+      "id": "http://localhost:8888/collection/human_skull/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/thumb.jpg",
+          "id": "http://localhost:8888/collection/human_skull/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json",
+      "id": "http://localhost:8888/collection/0_music_box/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/thumb.jpg",
+          "id": "http://localhost:8888/collection/0_music_box/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json",
+      "id": "http://localhost:8888/collection/ecorche/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -87,7 +87,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/thumb.jpg",
+          "id": "http://localhost:8888/collection/ecorche/thumb.jpg",
           "type": "Image"
         }
       ]

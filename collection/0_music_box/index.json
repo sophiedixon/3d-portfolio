@@ -1,24 +1,24 @@
 {
-  "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json",
+  "id": "http://localhost:8888/collection/0_music_box/index.json",
   "type": "Manifest",
   "items": [
     {
       "type": "Sequence",
       "items": [
         {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0",
+          "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0",
           "type": "Canvas",
           "items": [
             {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotationpage/0",
+              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotationpage/0",
               "type": "AnnotationPage",
               "items": [
                 {
-                  "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/0",
+                  "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/0",
                   "type": "Annotation",
                   "motivation": "painting",
                   "body": {
-                    "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/music-box-assembled.obj",
+                    "id": "http://localhost:8888/collection/0_music_box/_music_box/music-box-assembled.obj",
                     "type": "PhysicalObject",
                     "format": "text/plain",
                     "label": {
@@ -27,7 +27,7 @@
                       ]
                     }
                   },
-                  "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
+                  "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
                 }
               ]
             }
@@ -62,7 +62,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/thumb.jpg",
+      "id": "http://localhost:8888/collection/0_music_box/thumb.jpg",
       "type": "Image"
     }
   ]
