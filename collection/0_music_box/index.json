@@ -33,7 +33,13 @@
         "@none": [
           "_music_box"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

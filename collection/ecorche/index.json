@@ -33,7 +33,13 @@
         "@none": [
           "_ecorche"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/_ecorche/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

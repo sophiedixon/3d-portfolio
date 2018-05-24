@@ -33,7 +33,13 @@
         "@none": [
           "_animal_skull"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/_animal_skull/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
