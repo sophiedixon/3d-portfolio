@@ -15,39 +15,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird_diffuse.png",
-                "type": "Image",
-                "format": "image/png",
-                "label": {
-                  "@none": [
-                    "_bird"
-                  ]
-                }
-              },
-              "target": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0"
-            },
-            {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotation/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird_normal.png",
-                "type": "Image",
-                "format": "image/png",
-                "label": {
-                  "@none": [
-                    "_bird"
-                  ]
-                }
-              },
-              "target": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0"
-            },
-            {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotation/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/assets/bird.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -65,13 +33,7 @@
         "@none": [
           "_bird"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/thumb.png",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {

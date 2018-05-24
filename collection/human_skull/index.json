@@ -15,39 +15,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/_human_skull/skull_diffuse.png",
-                "type": "Image",
-                "format": "image/png",
-                "label": {
-                  "@none": [
-                    "_human_skull"
-                  ]
-                }
-              },
-              "target": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json/canvas/0"
-            },
-            {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json/canvas/0/annotation/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/_human_skull/skull_normal.png",
-                "type": "Image",
-                "format": "image/png",
-                "label": {
-                  "@none": [
-                    "_human_skull"
-                  ]
-                }
-              },
-              "target": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json/canvas/0"
-            },
-            {
-              "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/index.json/canvas/0/annotation/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/_human_skull/skull.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/_human_skull/assets/skull.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -65,13 +33,7 @@
         "@none": [
           "_human_skull"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://sophiedixon.github.io/3d-portfolio/collection/human_skull/_human_skull/thumb.png",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
