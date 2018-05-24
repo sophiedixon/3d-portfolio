@@ -10,7 +10,7 @@
   "scripts": {
     "postinstall": "npm run sync",
     "sync": "rm -rf uv && cp -R node_modules/universalviewer/uv uv",
-    "build": "biiif collection -u http://localhost:8888/collection",
+    "build": "biiif collection -u https://sophiedixon.github.io/3d-portfolio/collection",
     "dist-gh": "biiif collection -u https://sophiedixon.github.io/3d-portfolio/collection",
     "dist-dat": "biiif collection -u dat://3088365c94ecbe15d2963b1a1e629ee408535e5273c8b15fc20203b2b6f22020/collection",
     "publish-gh": "npm run dist-gh && git add -A && git commit -m \"published\" && git push origin gh-pages",

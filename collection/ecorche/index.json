@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/ecorche/index.json",
+  "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/ecorche/index.json/canvas/0",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/ecorche/index.json/canvas/0/annotationpage/0",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/ecorche/index.json/canvas/0/annotation/0",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/ecorche/_ecorche/ecorche_diffuse.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/_ecorche/ecorche_diffuse.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,14 +24,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/ecorche/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/ecorche/index.json/canvas/0/annotation/1",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/ecorche/_ecorche/ecorche_normal.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/_ecorche/ecorche_normal.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -40,14 +40,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/ecorche/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/ecorche/index.json/canvas/0/annotation/2",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/ecorche/_ecorche/ecorche.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/_ecorche/ecorche.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -56,7 +56,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/ecorche/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/index.json/canvas/0"
             }
           ]
         }
@@ -65,7 +65,13 @@
         "@none": [
           "_ecorche"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/_ecorche/thumb.png",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
@@ -103,7 +109,7 @@
   "description": "A polychrome carved wooden écorché figure.",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/ecorche/thumb.jpg",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/ecorche/thumb.jpg",
       "type": "Image"
     }
   ]

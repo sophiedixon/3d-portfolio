@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/animal_skull/index.json",
+  "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/animal_skull/index.json/canvas/0",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/animal_skull/index.json/canvas/0/annotationpage/0",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/animal_skull/index.json/canvas/0/annotation/0",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/animal_skull/_animal_skull/skull_diffuse.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/_animal_skull/skull_diffuse.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,14 +24,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/animal_skull/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/animal_skull/index.json/canvas/0/annotation/1",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/animal_skull/_animal_skull/skull_normal.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/_animal_skull/skull_normal.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -40,14 +40,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/animal_skull/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/animal_skull/index.json/canvas/0/annotation/2",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/animal_skull/_animal_skull/skull.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/_animal_skull/skull.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -56,7 +56,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/animal_skull/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/index.json/canvas/0"
             }
           ]
         }
@@ -65,7 +65,13 @@
         "@none": [
           "_animal_skull"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/_animal_skull/thumb.png",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
@@ -102,7 +108,7 @@
   "attribution": "Nelis Antiques, Amsterdam. www.nelisantiques.com",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/animal_skull/thumb.jpg",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/animal_skull/thumb.jpg",
       "type": "Image"
     }
   ]

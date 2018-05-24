@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/bird/index.json",
+  "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/bird/index.json/canvas/0",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/bird/index.json/canvas/0/annotationpage/0",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/bird/index.json/canvas/0/annotation/0",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/bird/_bird/bird_diffuse.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird_diffuse.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,14 +24,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/bird/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/bird/index.json/canvas/0/annotation/1",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/bird/_bird/bird_normal.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird_normal.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -40,14 +40,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/bird/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/bird/index.json/canvas/0/annotation/2",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/bird/_bird/bird.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/bird.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -56,7 +56,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/bird/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/bird/index.json/canvas/0"
             }
           ]
         }
@@ -65,7 +65,13 @@
         "@none": [
           "_bird"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/_bird/thumb.png",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
@@ -102,7 +108,7 @@
   "description": "A concrete ornamental bird",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/bird/thumb.jpg",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/bird/thumb.jpg",
       "type": "Image"
     }
   ]

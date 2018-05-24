@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/0_music_box/index.json",
+  "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotationpage/0",
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/0",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/box_bake.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/box_bake.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,14 +24,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/1",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/box-lid_bake.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/box-lid_bake.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -40,14 +40,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/2",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/dancer_bake.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/dancer_bake.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -56,14 +56,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/3",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/dancer_normal.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/dancer_normal.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -72,14 +72,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/4",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/music-box_normal2.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/music-box_normal2.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -88,14 +88,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/5",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/music-box-assembled.obj",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/music-box-assembled.obj",
                 "type": "PhysicalObject",
                 "format": "text/plain",
                 "label": {
@@ -104,14 +104,14 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             },
             {
-              "id": "http://localhost:8888/collection/0_music_box/index.json/canvas/0/annotation/6",
+              "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/0_music_box/_music_box/music-box-lid_normal.png",
+                "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/music-box-lid_normal.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -120,7 +120,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/0_music_box/index.json/canvas/0"
+              "target": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/index.json/canvas/0"
             }
           ]
         }
@@ -129,7 +129,13 @@
         "@none": [
           "_music_box"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/_music_box/thumb.png",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
@@ -153,7 +159,7 @@
   ],
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/0_music_box/thumb.jpg",
+      "id": "https://sophiedixon.github.io/3d-portfolio/collection/0_music_box/thumb.jpg",
       "type": "Image"
     }
   ]
